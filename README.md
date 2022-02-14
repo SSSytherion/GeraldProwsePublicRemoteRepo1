@@ -1,2 +1,2 @@
 # GeraldProwsePublicRemoteRepo1
-Lab 1
+This is my 1st Public Remore Repo1
